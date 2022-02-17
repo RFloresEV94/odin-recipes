@@ -1,0 +1,19 @@
+.title .subhead .list {
+    font-family: fantasy, 'Times New Roman', Times, serif;
+}
+
+.title {
+    background-color: orange;
+    color: rgb(235, 217, 168);
+    font-size: 82px;
+    text-align: center;
+}
+
+.subhead {
+    color: orange;
+    font-size: 34px;
+}
+
+.list {
+    font-size: 24px;
+}

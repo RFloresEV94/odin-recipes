@@ -1,0 +1,20 @@
+.header .subhead .list {
+    font-family: fantasy, 'Times New Roman', Times, serif;
+}
+
+.header {
+    background-color: rgb(205, 134, 76);
+    color: rgb(80, 48, 22);
+    font-size: 82px;
+    text-align: center;
+}
+
+.subhead {
+    color: rgb(205, 134, 76);
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.list {
+    font-size: 24px;
+}
